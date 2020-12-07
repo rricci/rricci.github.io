@@ -1,3 +1,18 @@
 .social-link {
     color: #ffffff;
 }
+
+.site-logo {
+    max-height: 300px;
+}
+
+.tag-template > .site-wrapper {
+    min-height: 0;
+}
+
+.post-full-content hr::after {
+    width: 0;
+    height: 0;
+    box-shadow: none;
+    transform: none;
+}
