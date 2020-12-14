@@ -16,12 +16,12 @@ function showModal(modalId, imgSrc) {
     }
 
     // When the user clicks on <span> (x), close the modal
-    span.onclick = function () {
+    span.onmousedown = function () {
         hideModal(modal);
     }
 
     // When the user clicks anywhere outside of the modal, close it
-    window.onclick = function (event) {
+    window.onmousedown = function (event) {
         if (event.target === modal) {
             hideModal(modal);
         }
