@@ -1,6 +1,7 @@
 function showModal(modalId, imgSrc) {
     const modal = document.getElementById(modalId);
     const closeButton = document.getElementsByClassName('close')[0];
+    const touchEvent = 'ontouchstart' in window ? 'touchstart' : 'click';
 
     if (modal.style.display !== 'block') {
         const img = modal.getElementsByClassName('modal-content')[0];
@@ -10,11 +11,14 @@ function showModal(modalId, imgSrc) {
         modal.style.display = 'block';
     }
 
-    console.log('touchEvent')
-    modal.onclick = () => hideModal(modal);
-    modal.ontouchend = () => hideModal(modal);
-    closeButton.onclick = () => hideModal(modal);
-    closeButton.ontouchend = () => hideModal(modal);
+    console.log('touchEvent', touchEvent)
+    if (touchEvent === 'click') {
+        modal.onclick = () => hideModal(modal);
+        closeButton.onclick = () => hideModal(modal);
+    } else {
+        modal.ontouchstart = () => hideModal(modal);
+        closeButton.ontouchstart = () => hideModal(modal);
+    }
 }
 
 function hideModal(modal) {
