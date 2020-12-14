@@ -1,12 +1,8 @@
 function showModal(modalId, imgSrc) {
-
-    // Get the modal
     const modal = document.getElementById(modalId);
+    const closeButton = document.getElementsByClassName('close')[0];
+    const touchEvent = 'ontouchstart' in window ? 'touchstart' : 'click';
 
-    // Get the <span> element that closes the modal
-    const span = document.getElementsByClassName('close')[0];
-
-    // When the user clicks on the button, open the modal
     if (modal.style.display !== 'block') {
         const img = modal.getElementsByClassName('modal-content')[0];
         img.src = imgSrc;
@@ -15,20 +11,15 @@ function showModal(modalId, imgSrc) {
         modal.style.display = 'block';
     }
 
-    // When the user clicks on <span> (x), close the modal
-    span.onmousedown = function () {
-        hideModal(modal);
-    }
-
-    // When the user clicks anywhere outside of the modal, close it
-    window.onmousedown = function (event) {
-        if (event.target === modal) {
-            hideModal(modal);
-        }
-    }
+    console.log('touchEvent', touchEvent)
+    modal.onclick = () => hideModal(modal);
+    modal.ontouchstart = () => hideModal(modal);
+    closeButton.onclick = () => hideModal(modal);
+    closeButton.ontouchstart = () => hideModal(modal);
 }
 
 function hideModal(modal) {
+    console.log('hide')
     const scrollY = document.body.style.top;
     document.body.style.position = '';
     document.body.style.top = '';
