@@ -10,7 +10,6 @@ function showModal(modalId, imgSrc) {
         document.body.style.position = 'fixed';
         modal.style.display = 'block';
 
-        console.log('touchEvent')
         if (touchEvent === 'click') {
             modal.onclick = () => hideModal(modal);
             closeButton.onclick = () => hideModal(modal);
@@ -23,7 +22,6 @@ function showModal(modalId, imgSrc) {
 
 function hideModal(modal) {
     if (modal.style.display === 'block') {
-        console.log('hide')
         const scrollY = document.body.style.top;
         document.body.style.position = '';
         document.body.style.top = '';
