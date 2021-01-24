@@ -1,78 +1,18 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
-<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
-  xmlns:xhtml="http://www.w3.org/1999/xhtml">
+<sitemapindex xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
-  <url>
-    <loc>https://roxthecasbah.com/tags/couture/</loc>
-    <lastmod>2020-12-01T11:00:00+00:00</lastmod>
-  </url>
+  <sitemap>
+    <loc>https://roxthecasbah.com/fr/sitemap.xml</loc>
+    
+      <lastmod>2020-12-01T11:00:00+00:00</lastmod>
+    
+  </sitemap>
   
-  <url>
-    <loc>https://roxthecasbah.com/post/ensemble-black-beauty/</loc>
-    <lastmod>2020-12-01T11:00:00+00:00</lastmod>
-  </url>
+  <sitemap>
+    <loc>https://roxthecasbah.com/en/sitemap.xml</loc>
+    
+      <lastmod>2020-12-01T11:00:00+00:00</lastmod>
+    
+  </sitemap>
   
-  <url>
-    <loc>https://roxthecasbah.com/post/</loc>
-    <lastmod>2020-12-01T11:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://roxthecasbah.com/</loc>
-    <lastmod>2020-12-01T11:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://roxthecasbah.com/tags/</loc>
-    <lastmod>2020-12-01T11:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://roxthecasbah.com/post/blue-beauty/</loc>
-    <lastmod>2020-09-26T08:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://roxthecasbah.com/post/diego-en-velours-vert/</loc>
-    <lastmod>2020-08-30T11:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://roxthecasbah.com/post/pietra-vert-a-rayures/</loc>
-    <lastmod>2020-08-02T10:24:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://roxthecasbah.com/post/le-cas-du-pantalon-large/</loc>
-    <lastmod>2020-07-18T08:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://roxthecasbah.com/post/le-cas-du-cropped-top/</loc>
-    <lastmod>2020-07-11T17:10:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://roxthecasbah.com/post/hello-world/</loc>
-    <lastmod>2020-07-04T08:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://roxthecasbah.com/tags/tricot/</loc>
-    <lastmod>2020-07-04T08:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://roxthecasbah.com/about/</loc>
-    <lastmod>2019-02-28T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://roxthecasbah.com/categories/</loc>
-  </url>
-  
-  <url>
-    <loc>https://roxthecasbah.com/series/</loc>
-  </url>
-  
-</urlset>
+</sitemapindex>
