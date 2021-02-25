@@ -3,6 +3,21 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>https://roxthecasbah.com/en/post/black-beauty-set/</loc>
+    <lastmod>2020-12-01T11:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr"
+                href="https://roxthecasbah.com/post/ensemble-black-beauty/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://roxthecasbah.com/en/post/black-beauty-set/"
+                />
+  </url>
+  
+  <url>
     <loc>https://roxthecasbah.com/en/tags/couture/</loc>
     <lastmod>2020-12-01T11:00:00+00:00</lastmod>
     <xhtml:link
@@ -14,21 +29,6 @@
                 rel="alternate"
                 hreflang="en"
                 href="https://roxthecasbah.com/en/tags/couture/"
-                />
-  </url>
-  
-  <url>
-    <loc>https://roxthecasbah.com/en/post/ensemble-black-beauty/</loc>
-    <lastmod>2020-12-01T11:00:00+00:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="fr"
-                href="https://roxthecasbah.com/post/ensemble-black-beauty/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://roxthecasbah.com/en/post/ensemble-black-beauty/"
                 />
   </url>
   
@@ -93,7 +93,7 @@
   </url>
   
   <url>
-    <loc>https://roxthecasbah.com/en/post/diego-en-velours-vert/</loc>
+    <loc>https://roxthecasbah.com/en/post/green-diego-needlecord/</loc>
     <lastmod>2020-08-30T11:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
@@ -103,7 +103,7 @@
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://roxthecasbah.com/en/post/diego-en-velours-vert/"
+                href="https://roxthecasbah.com/en/post/green-diego-needlecord/"
                 />
   </url>
   
