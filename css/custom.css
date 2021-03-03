@@ -106,3 +106,9 @@
         width: 100%;
     }
 }
+
+.flags-header {
+    float: right;
+    padding: 10px 0;
+    height: 64px
+}
