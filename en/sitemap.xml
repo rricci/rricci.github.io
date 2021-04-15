@@ -1,6 +1,82 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  
+  <url>
+    <loc>https://roxthecasbah.com/en/post/perfect-quart-coat/</loc>
+    <lastmod>2021-04-14T11:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr"
+                href="https://roxthecasbah.com/post/perfecto-quart/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://roxthecasbah.com/en/post/perfect-quart-coat/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://roxthecasbah.com/en/tags/couture/</loc>
+    <lastmod>2021-04-14T11:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr"
+                href="https://roxthecasbah.com/tags/couture/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://roxthecasbah.com/en/tags/couture/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://roxthecasbah.com/en/post/</loc>
+    <lastmod>2021-04-14T11:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr"
+                href="https://roxthecasbah.com/post/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://roxthecasbah.com/en/post/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://roxthecasbah.com/en/</loc>
+    <lastmod>2021-04-14T11:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr"
+                href="https://roxthecasbah.com/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://roxthecasbah.com/en/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://roxthecasbah.com/en/tags/</loc>
+    <lastmod>2021-04-14T11:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr"
+                href="https://roxthecasbah.com/tags/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://roxthecasbah.com/en/tags/"
+                />
+  </url>
+  
   <url>
     <loc>https://roxthecasbah.com/en/post/black-beauty-set/</loc>
     <lastmod>2020-12-01T11:00:00+00:00</lastmod>
@@ -14,59 +90,9 @@
                 hreflang="en"
                 href="https://roxthecasbah.com/en/post/black-beauty-set/"
                 />
-  </url><url>
-    <loc>https://roxthecasbah.com/en/tags/couture/</loc>
-    <lastmod>2020-12-01T11:00:00+00:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="fr"
-                href="https://roxthecasbah.com/tags/couture/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://roxthecasbah.com/en/tags/couture/"
-                />
-  </url><url>
-    <loc>https://roxthecasbah.com/en/post/</loc>
-    <lastmod>2020-12-01T11:00:00+00:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="fr"
-                href="https://roxthecasbah.com/post/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://roxthecasbah.com/en/post/"
-                />
-  </url><url>
-    <loc>https://roxthecasbah.com/en/</loc>
-    <lastmod>2020-12-01T11:00:00+00:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="fr"
-                href="https://roxthecasbah.com/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://roxthecasbah.com/en/"
-                />
-  </url><url>
-    <loc>https://roxthecasbah.com/en/tags/</loc>
-    <lastmod>2020-12-01T11:00:00+00:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="fr"
-                href="https://roxthecasbah.com/tags/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://roxthecasbah.com/en/tags/"
-                />
-  </url><url>
+  </url>
+  
+  <url>
     <loc>https://roxthecasbah.com/en/post/blue-beauty/</loc>
     <lastmod>2020-09-26T08:00:00+00:00</lastmod>
     <xhtml:link
@@ -79,7 +105,9 @@
                 hreflang="en"
                 href="https://roxthecasbah.com/en/post/blue-beauty/"
                 />
-  </url><url>
+  </url>
+  
+  <url>
     <loc>https://roxthecasbah.com/en/post/green-diego-needlecord/</loc>
     <lastmod>2020-08-30T11:00:00+00:00</lastmod>
     <xhtml:link
@@ -92,7 +120,9 @@
                 hreflang="en"
                 href="https://roxthecasbah.com/en/post/green-diego-needlecord/"
                 />
-  </url><url>
+  </url>
+  
+  <url>
     <loc>https://roxthecasbah.com/en/post/a-green-striped-pietra/</loc>
     <lastmod>2020-08-02T10:24:00+00:00</lastmod>
     <xhtml:link
@@ -105,7 +135,9 @@
                 hreflang="en"
                 href="https://roxthecasbah.com/en/post/a-green-striped-pietra/"
                 />
-  </url><url>
+  </url>
+  
+  <url>
     <loc>https://roxthecasbah.com/en/post/a-high-waisted-pants-study/</loc>
     <lastmod>2020-07-18T08:00:00+00:00</lastmod>
     <xhtml:link
@@ -118,7 +150,9 @@
                 hreflang="en"
                 href="https://roxthecasbah.com/en/post/a-high-waisted-pants-study/"
                 />
-  </url><url>
+  </url>
+  
+  <url>
     <loc>https://roxthecasbah.com/en/post/a-cropped-top-study/</loc>
     <lastmod>2020-07-11T17:10:00+00:00</lastmod>
     <xhtml:link
@@ -131,7 +165,9 @@
                 hreflang="en"
                 href="https://roxthecasbah.com/en/post/a-cropped-top-study/"
                 />
-  </url><url>
+  </url>
+  
+  <url>
     <loc>https://roxthecasbah.com/en/post/hello-world/</loc>
     <lastmod>2020-07-04T08:00:00+00:00</lastmod>
     <xhtml:link
@@ -144,7 +180,9 @@
                 hreflang="en"
                 href="https://roxthecasbah.com/en/post/hello-world/"
                 />
-  </url><url>
+  </url>
+  
+  <url>
     <loc>https://roxthecasbah.com/en/tags/tricot/</loc>
     <lastmod>2020-07-04T08:00:00+00:00</lastmod>
     <xhtml:link
@@ -157,7 +195,9 @@
                 hreflang="en"
                 href="https://roxthecasbah.com/en/tags/tricot/"
                 />
-  </url><url>
+  </url>
+  
+  <url>
     <loc>https://roxthecasbah.com/en/about/</loc>
     <lastmod>2019-02-28T00:00:00+00:00</lastmod>
     <xhtml:link
@@ -170,7 +210,9 @@
                 hreflang="en"
                 href="https://roxthecasbah.com/en/about/"
                 />
-  </url><url>
+  </url>
+  
+  <url>
     <loc>https://roxthecasbah.com/en/categories/</loc>
     <xhtml:link
                 rel="alternate"
@@ -182,7 +224,9 @@
                 hreflang="en"
                 href="https://roxthecasbah.com/en/categories/"
                 />
-  </url><url>
+  </url>
+  
+  <url>
     <loc>https://roxthecasbah.com/en/series/</loc>
     <xhtml:link
                 rel="alternate"
@@ -195,4 +239,5 @@
                 href="https://roxthecasbah.com/en/series/"
                 />
   </url>
+  
 </urlset>
