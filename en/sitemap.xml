@@ -4,7 +4,7 @@
   
   <url>
     <loc>https://roxthecasbah.com/en/tags/couture/</loc>
-    <lastmod>2021-05-02T11:00:00+00:00</lastmod>
+    <lastmod>2021-07-10T10:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="fr"
@@ -14,6 +14,66 @@
                 rel="alternate"
                 hreflang="en"
                 href="https://roxthecasbah.com/en/tags/couture/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://roxthecasbah.com/en/post/</loc>
+    <lastmod>2021-07-10T10:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr"
+                href="https://roxthecasbah.com/post/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://roxthecasbah.com/en/post/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://roxthecasbah.com/en/</loc>
+    <lastmod>2021-07-10T10:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr"
+                href="https://roxthecasbah.com/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://roxthecasbah.com/en/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://roxthecasbah.com/en/tags/</loc>
+    <lastmod>2021-07-10T10:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr"
+                href="https://roxthecasbah.com/tags/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://roxthecasbah.com/en/tags/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://roxthecasbah.com/en/post/terracotta-antelope-quilt/</loc>
+    <lastmod>2021-07-10T10:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr"
+                href="https://roxthecasbah.com/post/quilt-antelope-terracotta/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://roxthecasbah.com/en/post/terracotta-antelope-quilt/"
                 />
   </url>
   
@@ -29,51 +89,6 @@
                 rel="alternate"
                 hreflang="en"
                 href="https://roxthecasbah.com/en/post/flowery-black-silk-set/"
-                />
-  </url>
-  
-  <url>
-    <loc>https://roxthecasbah.com/en/post/</loc>
-    <lastmod>2021-05-02T11:00:00+00:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="fr"
-                href="https://roxthecasbah.com/post/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://roxthecasbah.com/en/post/"
-                />
-  </url>
-  
-  <url>
-    <loc>https://roxthecasbah.com/en/</loc>
-    <lastmod>2021-05-02T11:00:00+00:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="fr"
-                href="https://roxthecasbah.com/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://roxthecasbah.com/en/"
-                />
-  </url>
-  
-  <url>
-    <loc>https://roxthecasbah.com/en/tags/</loc>
-    <lastmod>2021-05-02T11:00:00+00:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="fr"
-                href="https://roxthecasbah.com/tags/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://roxthecasbah.com/en/tags/"
                 />
   </url>
   
