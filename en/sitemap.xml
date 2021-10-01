@@ -2,6 +2,84 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
+    <loc>https://roxthecasbah.com/en/tags/antelope-quilt/</loc>
+    <lastmod>2021-08-28T10:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr"
+                href="https://roxthecasbah.com/fr/tags/antelope-quilt/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://roxthecasbah.com/en/tags/antelope-quilt/"
+                />
+  </url><url>
+    <loc>https://roxthecasbah.com/en/tags/tricot/</loc>
+    <lastmod>2021-08-28T10:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr"
+                href="https://roxthecasbah.com/fr/tags/tricot/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://roxthecasbah.com/en/tags/tricot/"
+                />
+  </url><url>
+    <loc>https://roxthecasbah.com/en/</loc>
+    <lastmod>2021-08-28T10:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr"
+                href="https://roxthecasbah.com/fr/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://roxthecasbah.com/en/"
+                />
+  </url><url>
+    <loc>https://roxthecasbah.com/en/tags/couture/</loc>
+    <lastmod>2021-08-28T10:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr"
+                href="https://roxthecasbah.com/fr/tags/couture/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://roxthecasbah.com/en/tags/couture/"
+                />
+  </url><url>
+    <loc>https://roxthecasbah.com/en/tags/</loc>
+    <lastmod>2021-08-28T10:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr"
+                href="https://roxthecasbah.com/fr/tags/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://roxthecasbah.com/en/tags/"
+                />
+  </url><url>
+    <loc>https://roxthecasbah.com/en/tags/antelope-quilt/</loc>
+    <lastmod>2021-07-10T10:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr"
+                href="https://roxthecasbah.com/fr/tags/antelope-quilt/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://roxthecasbah.com/en/tags/antelope-quilt/"
+                />
+  </url><url>
     <loc>https://roxthecasbah.com/en/tags/couture/</loc>
     <lastmod>2021-07-10T10:00:00+00:00</lastmod>
     <xhtml:link
@@ -26,19 +104,6 @@
                 rel="alternate"
                 hreflang="en"
                 href="https://roxthecasbah.com/en/post/"
-                />
-  </url><url>
-    <loc>https://roxthecasbah.com/en/</loc>
-    <lastmod>2021-07-10T10:00:00+00:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="fr"
-                href="https://roxthecasbah.com/fr/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://roxthecasbah.com/en/"
                 />
   </url><url>
     <loc>https://roxthecasbah.com/en/tags/</loc>
@@ -220,18 +285,6 @@
                 rel="alternate"
                 hreflang="en"
                 href="https://roxthecasbah.com/en/categories/"
-                />
-  </url><url>
-    <loc>https://roxthecasbah.com/en/series/</loc>
-    <xhtml:link
-                rel="alternate"
-                hreflang="fr"
-                href="https://roxthecasbah.com/fr/series/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://roxthecasbah.com/en/series/"
                 />
   </url>
 </urlset>
