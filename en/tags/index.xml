@@ -1,1 +1,12 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Tags on RoxTheCasbah</title><link>https://roxthecasbah.com/en/tags/</link><description>Recent content in Tags on RoxTheCasbah</description><generator>Hugo -- gohugo.io</generator><language>en</language><lastBuildDate>Tue, 22 Feb 2022 17:00:00 +0000</lastBuildDate><atom:link href="https://roxthecasbah.com/en/tags/index.xml" rel="self" type="application/rss+xml"/><item><title>Lingerie</title><link>https://roxthecasbah.com/en/tags/lingerie/</link><pubDate>Sat, 01 Jan 2022 10:00:00 +0000</pubDate><guid>https://roxthecasbah.com/en/tags/lingerie/</guid><description/></item><item><title>Antelope Quilt</title><link>https://roxthecasbah.com/en/tags/antelope-quilt/</link><pubDate>Sat, 28 Aug 2021 10:00:00 +0000</pubDate><guid>https://roxthecasbah.com/en/tags/antelope-quilt/</guid><description/></item><item><title>Knitting</title><link>https://roxthecasbah.com/en/tags/tricot/</link><pubDate>Sat, 28 Aug 2021 10:00:00 +0000</pubDate><guid>https://roxthecasbah.com/en/tags/tricot/</guid><description/></item><item><title>Sewing</title><link>https://roxthecasbah.com/en/tags/couture/</link><pubDate>Sat, 28 Aug 2021 10:00:00 +0000</pubDate><guid>https://roxthecasbah.com/en/tags/couture/</guid><description/></item></channel></rss>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Tags on RoxTheCasbah</title>
+    <link>https://roxthecasbah.com/en/tags/</link>
+    <description>Recent content in Tags on RoxTheCasbah</description>
+    <generator>Hugo</generator>
+    <language>en</language>
+    <lastBuildDate></lastBuildDate>
+    <atom:link href="https://roxthecasbah.com/en/tags/index.xml" rel="self" type="application/rss+xml" />
+  </channel>
+</rss>
